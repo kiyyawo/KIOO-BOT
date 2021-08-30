@@ -19,7 +19,7 @@ async def typewriter(typew):
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^.kamu(?: |$)(.*)')
+@register(outgoing=True, pattern='^.slipkol(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
