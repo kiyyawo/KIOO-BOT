@@ -3,19 +3,19 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern='^.nis(?: |$)(.*)')
+@register(outgoing=True, pattern='^.nishfu(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
-    await typew.edit("`Hai Perkenalkan Namaku Ibnu Panggil Aja sayang 😁`")
+    await typew.edit("`Hai Perkenalkan Namaku Nishfu Panggil Aja sayang 😁`")
     sleep(3)
-    await typew.edit("`20 Tahun`")
+    await typew.edit("`Umur aku 20 Tahun`")
     sleep(3)
     await typew.edit("`Owner Dari ParadoXbot, Salam Kenal:)`")
     sleep(3)
-    await typew.edit("`Dan Satu Lagi...`")
+    await typew.edit("`Salam kenal 👀`")
     sleep(3)
-    await typew.edit("`Gua ga Ganteng² Njir 😏`")
+    await typew.edit("`Pliss jangan di kacangin 😔`")
 # Create by myself @localheart
 
 
@@ -42,15 +42,15 @@ async def typewriter(typew):
     await typew.edit("`GUA GANTENG FIX NO DEBAT😏`")
 
 
-@register(outgoing=True, pattern='^.semangat(?: |$)(.*)')
+@register(outgoing=True, pattern='^.sepi(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(3)
-    await typew.edit("`Apapun Yang Terjadi`")
+    await typew.edit("`Pada kemana wey 👀`")
     sleep(3)
-    await typew.edit("`Tetaplah Bernapas`")
+    await typew.edit("`Sepi amat ini grup`")
     sleep(1)
-    await typew.edit("`Dan Selalu Bersyukur`")
+    await typew.edit("`Bakar member nya ayokk 🏃‍♂️🏃‍♂️`")
 # Create by myself @localheart
 
 
@@ -137,13 +137,13 @@ CMD_HELP.update({
     "panimasi":
     "🗿CMD🗿`.pe`\
 \nPenjelasan: Cek lah asw.\
-\n\n🗿CMD🗿`.nis`\
+\n\n🗿CMD🗿`.nishfu`\
 \nPenjelasan: Cek lah asw.\
 \n\n🗿CMD🗿`.kamu`\
 \nPenjelasan: Cek lah asw.\
 \n\n🗿CMD🗿`p`\
 \nPenjelasan: Cek lah asw.\
-\n\n🗿CMD🗿`.semangat`\
+\n\n🗿CMD🗿`.sepi`\
 \nPenjelasan: Cek lah asw.\
 \n\n🗿CMD🗿`.wibu`\
 \nPenjelasan: Lari Dari Wibu.\
