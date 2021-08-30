@@ -58,22 +58,22 @@ async def typewriter(typew):
     await typew.edit("**TOBAT YA NYED TOBAT IBADAH JANGAN MAKSIAT MULU TOD**")
 
 
-@register(outgoing=True, pattern='^.berlin(?: |$)(.*)')
+@register(outgoing=True, pattern='^.rame(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("**Hai gaes nama gua Berlin.**")
+    await typew.edit("**Wew Rame 😱.**")
     sleep(4)
-    await typew.edit("**Gua asal Jogja,tapi asli Brebes,**")
+    await typew.edit("**Gini dong ramee,**")
     sleep(3)
-    await typew.edit("**umur gua baru 16,salam kenal yaa ajg**")
+    await typew.edit("**Asik kan jadinya banyak orang gaguna 👀**")
 
 
-@register(outgoing=True, pattern='^.wibutlol(?: |$)(.*)')
+@register(outgoing=True, pattern='^.ampun(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("**APASIH NGATAIN WIBU²,BIAR NGAPA NGATAIN ORA WIBU KEK GITU ANJG?,CUMA PAKE PP ANIME DIKATAIN WIBU KONTOL,NONTON ANIME AJA KAGA GUA ASYU..**")
+    await typew.edit("**Ampun lord lu jago banget anj ajarin dong 😔🙏**")
 
 
 CMD_HELP.update(
