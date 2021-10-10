@@ -3,35 +3,35 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern='^.nishfu(?: |$)(.*)')
+@register(outgoing=True, pattern='^.kio(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
-    await typew.edit("`Hai Perkenalkan Namaku Nishfu Panggil Aja sayang 😁`")
+    await typew.edit("`HALOO BRODI`")
     sleep(3)
-    await typew.edit("`Umur aku 20 Tahun`")
+    await typew.edit("`KIO HEREE`")
     sleep(3)
-    await typew.edit("`Owner Dari ParadoXbot, Salam Kenal:)`")
+    await typew.edit("`Join ke gc Paradox!`")
     sleep(3)
-    await typew.edit("`Salam kenal 👀`")
+    await typew.edit("`Ga join matanya burem`")
     sleep(3)
-    await typew.edit("`Pliss jangan di kacangin 😔`")
+    await typew.edit("`BURUAN`")
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^.slipkol(?: |$)(.*)')
+@register(outgoing=True, pattern='^.kiyyawo(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
     await typew.edit("`Cuma Mau Bilang`")
     sleep(2)
-    await typew.edit("`Aku Suka sama Kamu, Kamu cantik di mata aku😔`")
+    await typew.edit("`Aku Suka sama Kamu`")
     sleep(2)
-    await typew.edit("`SLIPKOL YUK 🥺`")
+    await typew.edit("`TAPI BOONG`")
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^.ganteng(?: |$)(.*)')
+@register(outgoing=True, pattern='^.cantik(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
@@ -39,7 +39,7 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("`Fakta Yang Belum Terbongkar Selama Ini`")
     sleep(2)
-    await typew.edit("`GUA GANTENG FIX NO DEBAT😏`")
+    await typew.edit("`GUA CANTIK FIX NO DEBAT😏`")
 
 
 @register(outgoing=True, pattern='^.sepi(?: |$)(.*)')
