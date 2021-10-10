@@ -1,6 +1,6 @@
 {
-  "name": "ParadoXbot",
-  "description": "[ParadoXbot] USERBOT TELEGRAM.",
+  "name": "KIOO-BOT",
+  "description": "[KIOO-BOT] USERBOT KIYYAWO.",
   "logo": "https://telegra.ph/file/63d4867949ac0495d850f.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/nishfu22/ParadoXbot",
-  "telegram": "https://t.me/pachemild",
-  "success_url": "https://t.me/pachemild",
+  "repository": "https://github.com/kiyyawo/KIOO-BOT",
+  "telegram": "https://t.me/kiyyawo",
+  "success_url": "https://t.me/kiyyawo",
   "stack": "container",
   "env": {
     "API_KEY": {
