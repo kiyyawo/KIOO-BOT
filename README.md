@@ -1,4 +1,4 @@
-# <p align="center"> 🌀 ParadoXbot 🌀
+# <p align="center"> 🌀 KIOO-BOT 🌀
 ![Paradise-Userbot Logo](https://telegra.ph/file/63d4867949ac0495d850f.jpg)
 
 <p align="center">
@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/github/forks/Rzky3016/Paradise-Userbot?label=Fork&style=social">
     
 <p align="center">
-    <a href="https://github.com/nishfu22/ParadoXbot">
-      <img src="https://img.shields.io/github/stars/nishfu22/ParadoXbot?style=social">
+    <a href="https://github.com/kiyyawo/KIOO-BOT">
+      <img src="https://img.shields.io/github/stars/kiyyawo/KIOO-BOT?style=social">
     </a></p>
 
 
@@ -24,8 +24,8 @@
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### String Session ParadoXbot
-Repo Yang Dibuat [Nishfu](https://t.me/pachemild) Dari Berbagai Repo Userbot Github 
+### String Session KIOO-BOT
+Repo Yang Dibuat [kiyyawo](https://t.me/kiyyawo) Dari Berbagai Repo Userbot Github 
 String_Session   [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
 ## Cara Deploy 👷
@@ -44,13 +44,13 @@ String_Session   [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/Genera
 
 ## Group Support 🛠
 
-   <a href="https://t.me/ZoneVirtuality"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/paradoxserver1"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
-## <p align="center">DEPLOY ParadoXbot</p>
+## <p align="center">DEPLOY KIOO-BOT</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nishfu22/ParadoXbot/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kiyyawo/KIOO-BOT/tree/Paradise-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
